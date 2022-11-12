@@ -1,10 +1,13 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/* ---------------Animation---------------- */
 * {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #ffffff;
 }
 
 .content {
@@ -12,6 +15,87 @@ body {
     height: 100vh;
     padding: 1rem;
     background-color: #fff;
+}
+
+.content h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+    color: #e54848;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 1rem;
+}
+
+.normal {
+    background-color: #a6a877;
+}
+
+.grass {
+    background-color: #77c850;
+}
+
+.fire {
+    background-color: #ee7f30;
+}
+
+.water {
+    background-color: #678fee;
+}
+
+.electric {
+    background-color: #f7cf2e;
+}
+
+.ice {
+    background-color: #98d5d7;
+}
+
+.ground {
+    background-color: #dfbf69;
+}
+
+.flying {
+    background-color: #a98ff0;
+}
+
+.poison {
+    background-color: #a040a0;
+}
+
+.fighting {
+    background-color: #bf3029;
+}
+
+.psychic {
+    background-color: #f65687;
+}
+
+.dark {
+    background-color: #725847;
+}
+
+.rock {
+    background-color: #b8a137;
+}
+
+.bug {
+    background-color: #a8b720;
+}
+
+.ghost {
+    background-color: #6e5896;
+}
+
+.steel {
+    background-color: #b9b7cf;
+}
+
+.dragon {
+    background-color: #6f38f6;
+}
+
+.fairy {
+    background-color: #f9aec7;
 }
 
 @media screen and (min-width: 992px) {
