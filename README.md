@@ -8,8 +8,10 @@
 
 ## 💻 Projeto
 
-    Desenvolvimento de uma interface utilizando tecnologias front-end, bem como aplicação de conceitos adquiridos durante o bootcamp da DIO.
-    Consiste em consumir dados de uma API REST(pokemon API) e fazer uso desta dados para dispor em uma interface.
+    Desenvolvimento de uma interface utilizando tecnologias front-end, 
+    bem como aplicação de conceitos adquiridos durante o bootcamp da DIO.
+    Consiste em consumir dados de uma API REST(pokemon API) e fazer uso 
+    desta dados para dispor em uma interface.
 
 ## 🚀 Tecnologias
 
